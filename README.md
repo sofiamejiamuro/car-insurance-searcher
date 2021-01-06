@@ -1,4 +1,4 @@
 # car-insurance-searcher
 
 
-Practicing prototypes 
+Practicing constructors and prototypes
